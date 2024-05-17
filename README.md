@@ -1,6 +1,7 @@
 # Иванов Иван Иванович
 
-![13609249](https://github.com/stepanov-github/git-2-homeworks-pr/assets/169553418/30e5f105-d5ea-4be6-a0bc-62b1fc9275c2)
+![13609249](https://github.com/stepanov-github/Information/assets/169553418/82d8a7f1-ab17-4c32-8df0-722023596e8e)
+
 
 
 
